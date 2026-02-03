@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Daniyal<br>I’m a final-year CS student and a software developer who loves building real-world apps using React Native and the MERN stack. I enjoy working on full-stack projects, experimenting with new tech, and mixing development with AI and emotion/EEG-based systems. Most of the time, you’ll find me coding, debugging, or turning ideas into working products 🚀
+👋 Hey, I’m Daniyal<br>I design and develop mobile-first applications using React Native, supported by scalable backend and web technologies. My focus is on performance, clean architecture, and building products that work in real-world conditions. I’ve worked on projects involving real-time data, media handling, and AI-driven features.🚀
 
 
 ## 🌐 Socials:
