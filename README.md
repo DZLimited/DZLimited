@@ -102,13 +102,10 @@ I build across the full stack — **MongoDB, Express, React, Node.js** on the we
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DZLimited&theme=radical&no-frame=true&row=1&column=7"/>
-</div>
-
-<br>
+<!-- 🏆 Trophies section removed for now: the public github-profile-trophy.vercel.app
+     service is returning a 402 Payment Required error (a billing/hosting issue on
+     the maintainer's side, not your file). If it comes back online, re-add:
+     <img src="https://github-profile-trophy.vercel.app/?username=DZLimited&theme=radical&no-frame=true&row=1&column=7"/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
