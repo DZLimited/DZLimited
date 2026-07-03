@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+Native+App+Developer;Real-time+Systems+%7C+Media+Handling;AI-driven+Feature+Integration" />
 
-<img src="https://komarev.com/ghpvc/?username=DZLimited&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=https://github.com/DZLimited&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
 </div>
 
@@ -89,12 +89,12 @@ I build across the full stack — **MongoDB, Express, React, Node.js** on the we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DZLimited&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/DZLimited&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DZLimited&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/DZLimited&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DZLimited&theme=redical&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/DZLimited&theme=redical&hide_border=true" width="90%"/>
 
 </div>
 
@@ -103,7 +103,7 @@ I build across the full stack — **MongoDB, Express, React, Node.js** on the we
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DZLimited&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/DZLimited&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
 
 <br>
