@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=M.%20Daniyal%20Zafar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20%26%20React%20Native%20Developer&descAlignY=65&descSize=18"/>
+<img src="https://github.com/DZLimited.png" width="150" height="150" style="border-radius:50%;" alt="M. Daniyal Zafar"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=M.%20Daniyal%20Zafar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20and%20React%20Native%20Developer&descAlignY=65&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+Native+App+Developer;Real-time+Systems+%7C+Media+Handling;AI-driven+Feature+Integration" />
 
@@ -111,5 +113,5 @@ I build across the full stack — **MongoDB, Express, React, Node.js** on the we
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <div align="center">
-<i>⚡ Open to collaborating on MERN &amp; React Native projects — let's build something real.</i>
+<i>⚡ Open to collaborating on MERN and React Native projects — let's build something real.</i>
 </div>
